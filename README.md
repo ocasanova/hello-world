@@ -1,2 +1,2 @@
 # hello-world
-Just nother depository
+Just another depository
